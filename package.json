@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/S-K-Siva/Basic_Scratch_Calculator_NodeExpress/issues"
   },
-  "homepage": "https://github.com/S-K-Siva/Basic_Scratch_Calculator_NodeExpress#readme"
+  "homepage": "https://github.com/S-K-Siva/Basic_Scratch_Calculator_NodeExpress#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
