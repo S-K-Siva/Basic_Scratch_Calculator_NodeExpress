@@ -1,0 +1,20 @@
+{
+  "name": "calculator_basic_level_project",
+  "version": "1.0.0",
+  "description": "This app is a scratch level calculator project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S-K-Siva/Basic_Scratch_Calculator_NodeExpress.git"
+  },
+  "author": "Siva S K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S-K-Siva/Basic_Scratch_Calculator_NodeExpress/issues"
+  },
+  "homepage": "https://github.com/S-K-Siva/Basic_Scratch_Calculator_NodeExpress#readme"
+}
